@@ -1,0 +1,47 @@
+
+body{
+    background: linear-gradient(violet,pink);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+table,th,td {
+    border: 1px solid black;
+}
+
+.icon {
+	width: 150px;
+	border-radius: 50%;
+    float: left;
+}
+
+hr{
+    border-top: 4px dotted black;
+}
+
+.content-tables{
+    width: 1120px;
+    padding: 10px;
+}
+
+.name{
+   margin-left: 180px;
+}
+
+.btn,.btn2{
+    color: white;
+    background-color: red;
+    width: 240px;
+    height: 40px;
+}
+
+.btn{
+    position: absolute;
+    left: 45%;
+}
+.page{
+    position: relative;
+    left: 50%;
+    padding: 4px;
+}
